@@ -1,13 +1,12 @@
 # Hello there!
 
-🌟 My name is Theo, I'm 20 years old, 
-I'm currently training at OpenClassrooms as a Front-end web developper.
+🌟 My name is Theo, I'm 20 years old, I'm currently training at OpenClassrooms as a Front-end web developper.
 
 💻 I'm passionate about web development and I don't set any limits for myself; even if I was originally oriented towards the front-end, I'm open to all opportunities, and I'm ready to learn new things.
 
 ⚡ I have a lot of energy to complete my projects, which allows me to always stay motivated by the work I undertake.
 
-🔭 I’m currently working on Study
+🔭 I’m currently working on [Study](https://github.com/bourdier/study), an application to track learning <br>
 🌱 I’m currently learning Javascript and React.
 
 ## Socials
