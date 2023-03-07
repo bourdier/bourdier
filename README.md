@@ -6,7 +6,7 @@
 
 ⚡ I have a lot of energy to complete my projects, which allows me to always stay motivated by the work I undertake.
 
-🔭 I’m currently working on [Study](https://github.com/bourdier/study), an application to track learning <br>
+🔭 I’m currently working on [Study](https://github.com/bourdier/study), an application to track learning. <br>
 🌱 I’m currently learning Javascript and React. <br>
 🐧 I use Fedora 37 as daily driver.
 
