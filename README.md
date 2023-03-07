@@ -1,6 +1,6 @@
 # Hello there!
 
-🌟 My name is Theo, I'm 20 years old, I'm currently training at OpenClassrooms as a Front-end web developper.
+🌟 My name is Theo, I'm 20 years old, I'm currently training at [OpenClassrooms](https://openclassrooms.com/) as a [Front-end web developper](https://openclassrooms.com/en/paths/594-integrateur-web).
 
 💻 I'm passionate about web development and I don't set any limits for myself; even if I was originally oriented towards the front-end, I'm open to all opportunities, and I'm ready to learn new things.
 
