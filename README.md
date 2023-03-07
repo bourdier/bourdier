@@ -8,6 +8,7 @@
 
 🔭 I’m currently working on [Study](https://github.com/bourdier/study), an application to track learning <br>
 🌱 I’m currently learning Javascript and React.
+🐧 I use Fedora 37 as daily driver.
 
 ## Socials
 
