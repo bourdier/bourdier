@@ -1,6 +1,6 @@
-<div align="center">
+<h2 align="center">
   <img src="https://raw.githubusercontent.com/bourdier/bourdier/main/magritte.png" alt="Magritte"> 
-</div>
+</h2>
 
 🌟 My name is Theo, I'm 20 years old, I'm currently training at [OpenClassrooms](https://openclassrooms.com/) as a [Front-end web developper](https://openclassrooms.com/en/paths/594-integrateur-web).
 
