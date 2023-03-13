@@ -8,7 +8,7 @@
 
 ⚡ I have a lot of energy to complete my projects, which allows me to always stay motivated by the work I undertake.
 
-🔭I am currently rewriting [Study](https://github.com/bourdier/study) in React, an application to track learning,<br>
+🌀 I am currently rewriting [Study](https://github.com/bourdier/study) in React, an application to track learning,<br>
 🌱 I’m currently learning Javascript and React.<br>
 🐧 I use Fedora 37 as daily driver.
 
